@@ -82,6 +82,8 @@ p {
     margin-right: 20px;
     padding: 20px;
     clear: both;
+    content: "";
+    display: both;
     float: right;
     width: 20%;
     height: 100%;
