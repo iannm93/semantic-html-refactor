@@ -1,9 +1,9 @@
-* {
+*{
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* cleans up the header; tightens it up and makes it mesh better. */
 body {
     background-color: #d9dcd6;
 }
@@ -14,15 +14,19 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
+/* changes the font/ color of the header; gives it spacing. */
 
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
+/* aligns the right-side buttons with the rest of the header; adjusts font size*/
+
+
 
 .header h1 .seo {
     color: #d9dcd6;
-}
+} 
 
 .header div {
     padding-top: 15px;
@@ -31,7 +35,7 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* gives right-side buttons marginal spacing/changes font */
 .header div ul {
     list-style-type: none;
 }
