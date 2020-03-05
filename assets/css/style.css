@@ -22,8 +22,6 @@ body {
 }
 
 
-
-
 .header h1 .seo {
     color: #d9dcd6;
 } 
@@ -61,7 +59,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* above is the main background image */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -90,12 +88,12 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* the above is the style for the left-side body of the page */
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/* the above gives a margin on the right side section and makes the text white */
+/* the above gives a margin */
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -115,6 +113,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+/* above gives background color and text color to left-side body  */
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
@@ -135,3 +134,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* the above is the positioning and format for the footer of tha page */
